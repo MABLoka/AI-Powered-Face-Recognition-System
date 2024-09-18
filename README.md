@@ -1,7 +1,5 @@
 # AI-Powered-Face-Recognition-System-
 
-# Face Recognition Application - README
-
 ## Introduction
 
 This is a **Face Recognition Application** built using **Python**, **PyQt6**, **OpenCV**, and **face_recognition** libraries. It provides a graphical interface where users can drag and drop images to identify faces. If a face is unknown, the user can add it to the system's face database. The application is capable of recognizing previously identified faces by matching them against stored face encodings.
